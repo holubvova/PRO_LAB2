@@ -1,0 +1,26 @@
+Testing random array
+Testing sort array
+Testing enter array
+ number = 9  i: 1 j: 1
+in 2 max number = 0  i: 0 j: 2
+
+-10 -9 -8
+ -8 -7 -6
+
+in 0 max number = -8  i: 1 j: 0
+in 1 max number = -7  i: 1 j: 1
+in 2 max number = -6  i: 1 j: 2
+
+ 12  3  2
+  4  5  6
+
+in 0 max number = 12  i: 0 j: 0
+in 1 max number = 5  i: 1 j: 1
+in 2 max number = 6  i: 1 j: 2
+
+
+
+
+
+
+
